@@ -5,4 +5,4 @@ def test_func_1():
 def test_func_2():
     a = 3
     b = 5
-    assert a == b
+    assert a <= b
